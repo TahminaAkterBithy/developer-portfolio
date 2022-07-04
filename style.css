@@ -12,7 +12,7 @@ h1 {
     color: gold;
 }
 
-section {
+.flexible-containe {
     display: flex;
     margin-bottom: 150px;
 }
